@@ -1,0 +1,2 @@
+Sitemap: https://slot505.pages.dev/sitemap.xml
+User-agent: *
